@@ -17,14 +17,12 @@
 	.page{
 		width: 100%;
 		height: 100%;
-		background-color: #f7f7f7;
+		background-color: #f0f0f0;
 	}
-/* 	uni-page-body,uni-page-refresh{
+	uni-page-body,uni-page-refresh{
 		height: 100%;
-	} */
-	.page-block{
-		background-color: #fff;
-		margin-top: 12upx;
-		padding: 20upx;
+	}
+	page{
+		height: 100%;
 	}
 </style>

@@ -1,0 +1,1 @@
+<view class="stars-list"><block wx:for="{{lightRate}}" wx:for-item="item" wx:for-index="index"><image class="single-star" src="../static/hot/like.png"></image></block><block wx:for="{{greyRate}}" wx:for-item="item" wx:for-index="index"><image class="single-star" src="../static/hot/unlike.png"></image></block><view class="rate">{{''+rateNum+''}}</view></view>
